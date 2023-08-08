@@ -3,7 +3,7 @@
 
 - 🌱 Learning Never Stops 🚀
 
-- 💬 Ask me about **Web Development, Java, DBMS, MySQL**
+- 💬 Ask me about **Web Development. **
 
 - 👨‍💻 Check out my personal portfolio : **<a href="https://portfolio-website-rho-blush.vercel.app/" target="_blank">Portfolio</a>**
 
