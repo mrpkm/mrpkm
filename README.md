@@ -55,9 +55,4 @@
   <img alt="Netlify" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
 </div><br/>
 
-<div>
-<a href="https://linkedin.com/in/piyush-kumar-701858211/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="piyush-kumar-701858211/" height="30" width="40" /></a>
-</div>
-
-
-
+<div>[![MasterHead](https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/148087967/original/0bc16b9b87328a128d34481da797e024ad933633/do-develop-web-app-using-reactjs.png)]</div>
